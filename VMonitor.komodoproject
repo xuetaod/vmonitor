@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="3d94fa37-1f2a-4749-9ca7-0ce3e299477c" kpf_version="5" name="VMonitor.komodoproject">
+<livefolder id="51a66797-fb73-4f37-9fa1-44228906197f" idref="3d94fa37-1f2a-4749-9ca7-0ce3e299477c" name="vmonitor" url="vmonitor">
+</livefolder>
+<livefolder id="533be3a3-b812-406b-b543-8b0174ecdd26" idref="3d94fa37-1f2a-4749-9ca7-0ce3e299477c" name="myuser" url="myuser">
+</livefolder>
+<livefolder id="8972d42f-e222-43c8-87c3-efba54f0d51e" idref="3d94fa37-1f2a-4749-9ca7-0ce3e299477c" name="website" url="website">
+</livefolder>
+<file id="c8e09776-098b-40f6-ba59-f3eb92bfbcca" idref="3d94fa37-1f2a-4749-9ca7-0ce3e299477c" name="manage.py" url="manage.py">
+</file>
+</project>
